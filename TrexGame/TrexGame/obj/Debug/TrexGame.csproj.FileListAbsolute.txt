@@ -1,0 +1,11 @@
+C:\Users\hamza\source\repos\TrexGame\TrexGame\bin\Debug\TrexGame.exe.config
+C:\Users\hamza\source\repos\TrexGame\TrexGame\bin\Debug\TrexGame.exe
+C:\Users\hamza\source\repos\TrexGame\TrexGame\bin\Debug\TrexGame.pdb
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.Form1.resources
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.Properties.Resources.resources
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.exe
+C:\Users\hamza\source\repos\TrexGame\TrexGame\obj\Debug\TrexGame.pdb
